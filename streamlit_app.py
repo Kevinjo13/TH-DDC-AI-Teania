@@ -22,7 +22,7 @@ def get_detection_folder():
 
 if __name__ == '__main__':
 
-    st.title('ปัญญาประดิษฐ์วินิจฉัยไข่พยาธิตืด')
+    st.title('ปัญญาประดิษฐ์กำลังทำงาน')
     # st.subheader('')
 
     parser = argparse.ArgumentParser()
